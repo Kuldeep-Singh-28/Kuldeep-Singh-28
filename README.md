@@ -9,15 +9,20 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to design
 
+### About
+
+I am Kuldeep Singh, currently pursuing B.Tech at IIT Indore, in Computer Science and Engineering
+I am deeply interested in new technology and automating my daily work.
+<br />
 
 ### Connect with me:
 
 [<img align="left" alt="kuldeepsiingh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kuldeepsiingh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
+<br />
 <p>
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
