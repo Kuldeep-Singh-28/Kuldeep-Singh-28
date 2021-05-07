@@ -48,9 +48,7 @@ I am deeply interested in new technology and automating my daily work.
 
 ### 📕 Latest Status
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeep-singh-28&show_icons=true&locale=en&layout=compact" alt="kuldeep-singh-28" /> </p>
-
-<br />
+<p style="margin-bottom: 10px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeep-singh-28&show_icons=true&locale=en&layout=compact" alt="kuldeep-singh-28" /> </p>
 
 <p>  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kuldeep-singh-28&show_icons=true&locale=en" alt="kuldeep-singh-28" /></p>
 
