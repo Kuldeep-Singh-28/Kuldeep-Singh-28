@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeep-singh-28&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeep-singh-28" /> </p>
 
-### Hi there, I'm KULDEEP SINGH 👋
+### Hi there, I'm KULDEEP SINGH <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a Developer!!
 
