@@ -46,11 +46,17 @@ I am deeply interested in new technology and automating my daily work.
 
 ---
 
-### 📕 Latest Status
+### ⚙️ &nbsp;GitHub Analytics
 
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeep-singh-28&show_icons=true&locale=en&layout=compact" alt="kuldeep-singh-28" /> </p>
+<p align="center">
+<a href="https://github.com/Kuldeep-Singh-28">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kuldeep-singh-28&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep-singh-28&layout=compact&hide=html,jupyter%20notebook,vhdl"/>
+</a>
+</p>
 
-<p>  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kuldeep-singh-28&show_icons=true&locale=en" alt="kuldeep-singh-28" /></p>
+
+
 
 
 [instagram]: https://www.instagram.com/kuldeepsingh_28/
