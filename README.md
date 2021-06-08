@@ -5,7 +5,7 @@
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👨‍💻 You can see my portfolio <strong>coming soon</strong>
+- 👨‍💻 You can see my portfolio  <a href="https://kuldeepsingh28.herokuapp.com/"> <strong> View</strong> </a>
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to design
 
